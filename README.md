@@ -54,3 +54,7 @@ The backend handles:
 ```bash
 git clone https://github.com/Vincentstanlykiran/Video_survey_backend.git
 cd video_survey_backend
+
+## 2. Run Docker CMD
+``` bash
+docker compose up --build
