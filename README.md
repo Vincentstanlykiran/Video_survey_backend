@@ -1,4 +1,4 @@
-# Privacy-First Video Survey Backend
+# Video Survey Platform with Face Detection
 
 A Dockerized FastAPI backend application for creating and managing privacy-focused video surveys.
 
