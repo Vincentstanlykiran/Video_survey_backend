@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+media/
+geoip/GeoLite2-City.mmdb
+postgres_data/
+.vscode/
+.idea/
+.DS_Store
+venv/
