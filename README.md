@@ -52,5 +52,5 @@ The backend handles:
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
-cd privacy-video-survey-backend
+git clone https://github.com/Vincentstanlykiran/Video_survey_backend.git
+cd video_survey_backend
